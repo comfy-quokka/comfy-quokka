@@ -1,16 +1,81 @@
-## Hi there 👋
+## Welcome! 😄
+- 💁‍♂️ **Taeha Kim** from Republic of Korea 🇰🇷  
+- 🌱 PhD student in Civil & Environmental Engineering @ [SNU](https://www.snu.ac.kr/)
 
-<!--
-**comfy-quokka/comfy-quokka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Studying 📖
+- 🏢 Structural Reliability
+- 📈 System & Input Identification
+- 💻 Machine Learning & Deep Learning
+- 🌐 Web Development
+- Keep adding...🙂 
 
-Here are some ideas to get you started:
+## Contact 📞
+<a href="https://github.com/comfy-quokka">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="mailto:99taeha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=222">
+</a>
+<a href="https://open.kakao.com/o/sWwuRJEg">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=222">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://comfy-quokka.github.io/assets/favicon.ico" width="15">](https://comfy-quokka.github.io/)
+[Personal Github Pages](https://comfy-quokka.github.io/)
+
+## Stacks 📚
+### Languages & Tools
+<a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/Rstudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white">  
+</a>
+<a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
+</a>
+<a>
+    <img src="https://img.shields.io/badge/Matlab-EF923C?style=for-the-badge&logo=matlab&logoColor=white">
+</a>
+
+### ML & DL Frameworks
+<a>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/huggingface-ffd21f?style=for-the-badge&logo=huggingface&logoColor=black">
+</a>
+
+### OS
+<a>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=centos&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
+</a>
+
+### Web Development
+<a>
+    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/bootstarp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</a>
+<a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comfy-quokka)
