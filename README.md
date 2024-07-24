@@ -1,6 +1,6 @@
 ## Welcome! 😄
 - 💁‍♂️ **Taeha Kim** from Republic of Korea 🇰🇷  
-- 🌱 PhD student in Civil & Environmental Engineering @ [SNU](https://www.snu.ac.kr/)
+- 🌱 M.S./Ph.D. student in **Structural System Reliability Group** @ [SNU CEE](https://cee.snu.ac.kr/english/index.php)
 
 ## Studying 📖
 - 🏢 Structural Reliability
