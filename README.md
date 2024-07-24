@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/bootstarp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     </a>
     <a>
-        <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
     <a>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
