@@ -25,57 +25,65 @@
 
 ## Stacks 📚
 ### Languages & Tools
-<a>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Rstudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white">  
-</a>
-<a>
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Matlab-EF923C?style=for-the-badge&logo=matlab&logoColor=white">
-</a>
+<p>
+    <a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Rstudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white">  
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Matlab-EF923C?style=for-the-badge&logo=matlab&logoColor=white">
+    </a>
+</p>
 
 ### ML & DL Frameworks
-<a>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/huggingface-ffd21f?style=for-the-badge&logo=huggingface&logoColor=black">
-</a>
+<p>
+    <a>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/huggingface-ffd21f?style=for-the-badge&logo=huggingface&logoColor=black">
+    </a>
+</p>
 
 ### OS
-<a>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=centos&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
-</a>
+<p>
+    <a>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=centos&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white">
+    </a>
+</p>
 
 ### Web Development
-<a>
-    <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/bootstarp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
-<a>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-</a>
+<p>
+    <a>
+        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/bootstarp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+    <a>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+</p>
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comfy-quokka)
