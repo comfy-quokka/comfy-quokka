@@ -24,6 +24,7 @@
 
 [<img src="https://comfy-quokka.github.io/assets/favicon.ico" width="15">](https://comfy-quokka.github.io/)
 [Personal Github Pages](https://comfy-quokka.github.io/)
+
 <br>
 
 ## Stacks 📚
