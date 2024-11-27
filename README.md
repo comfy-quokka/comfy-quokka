@@ -1,5 +1,5 @@
 <p align="center">
-<img src="taeha_circle.png" width="40%">
+<img src="taeha_circle.png" width="30%">
 </p>
 
 ## Welcome! 😄
