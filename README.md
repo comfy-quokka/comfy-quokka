@@ -16,6 +16,7 @@
 <br>
 
 ## Contact 📞
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/taeha-kim-b6622b322/)
 <a href="https://github.com/comfy-quokka">
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 </a>
