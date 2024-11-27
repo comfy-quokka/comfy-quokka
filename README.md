@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 <img src="taeha_circle.png" width="40%">
-</center>
+</p>
 
 ## Welcome! 😄
 - 💁‍♂️ **Taeha Kim** from Republic of Korea 🇰🇷  
