@@ -1,10 +1,10 @@
 <p align="center">
-<img src="taeha_circle.png" width="40%">
+<img src="taeha_circle.png" width="30%">
 </p>
 
 ## Welcome! 😄
 - 💁‍♂️ **Taeha Kim** from Republic of Korea 🇰🇷  
-- 🌱 M.S./Ph.D. student in **Structural System Reliability Group** @ [SNU CEE](https://cee.snu.ac.kr/english/index.php)
+- 🌱 M.S./Ph.D. student at **Structural System Reliability Group**, [SNU CEE](https://cee.snu.ac.kr/english/index.php)
 <br>
 
 ## Studying 📖
@@ -13,6 +13,19 @@
 - 💻 Machine Learning & Deep Learning
 - 🌐 Web Development
 - Keep adding...🙂 
+<br>
+
+## Conferences 🎤
+- 🇰🇷 [KSCE Convention 2023](https://eng.ksce.or.kr/) (Korean Society of Civil Engineers) - Yeosu
+- 🇰🇷 [COSEIK Annual Conference 2024](https://www.coseik.or.kr/) (Computational Structural Engineering Institute of Korea) - Jeju
+- 🌐 🇰🇷 [APSSRA 2024](https://apssra2024.kr/) (The 8th Asian-Pacific Symposium on Structural Reliability and Its Applications) - Ulsan
+- 🇰🇷 [KSCE Convention 2024](https://eng.ksce.or.kr/) (Korean Society of Civil Engineers) - Jeju
+- 🌐 🇺🇸 [EMI 2025](https://www.emi-conference.org/) (Engineering Mechanics Institute Conference) - Anaheim, California
+- 🌐 🇺🇸 [ICOSSAR'25](https://www.icossar2025.org/home) (14th International Conference on Structural Safety and Reliability) - Los Angeles, California
+<br>
+
+## Awards 🏆
+- ICOSSAR'25 **Student Best Paper Award** (2025)
 <br>
 
 ## Contact 📞
