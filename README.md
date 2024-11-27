@@ -1,3 +1,7 @@
+<center>
+<img src="taeha_circle.png" width="40%">
+</center>
+
 ## Welcome! 😄
 - 💁‍♂️ **Taeha Kim** from Republic of Korea 🇰🇷  
 - 🌱 M.S./Ph.D. student in **Structural System Reliability Group** @ [SNU CEE](https://cee.snu.ac.kr/english/index.php)
